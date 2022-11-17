@@ -1,0 +1,7 @@
+# Project exclude paths
+/out/
+/springMvc_01_servlet/target/
+/springMvc_02_hello/target/
+/springMvc_03_annotation/target/
+/springMvc_04_controller/target/
+/springMvc_05_Json/target/
